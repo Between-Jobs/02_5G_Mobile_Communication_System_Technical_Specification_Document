@@ -79,4 +79,4 @@ C. 3GPP Release Compatibility Table
 
 ---
 
-📄 **[Click here to download the sample 5G Mobile Communication System Technical Specification Document](./02.5G%20MCS%20TS.pdf)**
+📄 **[Click here to download the sample 5G Mobile Communication System Technical Specification Document](./Sample_02.5GMCSTS.pdf)**
